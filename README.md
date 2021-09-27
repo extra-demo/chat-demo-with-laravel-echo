@@ -35,3 +35,7 @@ composer serve # start web server
 yarn dev
 ```
 
+## 预览
+
+![](docs/images/1632709122613.jpg)
+![](docs/images/1632709178284.jpg)

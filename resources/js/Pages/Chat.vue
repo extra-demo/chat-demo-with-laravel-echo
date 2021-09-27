@@ -10,7 +10,7 @@
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div class="p-3 bg-white overflow-hidden shadow-xl sm:rounded-lg">
                     <div>
-                        <div class="font-bold text-4xl">header</div>
+                        <div class="font-bold text-4xl">Chat Demo</div>
                         <div>state</div>
                         <div>{{ info }}</div>
                         <div class="flex">
@@ -33,8 +33,6 @@
                                    type="text"/>
                         </div>
                         <div class="text-right mt-4">
-                            <button @click="Leave" class="bg-gray-500 rounded px-3 py-1 hover:bg-gray-600 mx-4">Leave
-                            </button>
                             <button @click="sendMsg" class="bg-yellow-500 rounded px-3 py-1 hover:bg-yellow-300">发送
                             </button>
                         </div>
